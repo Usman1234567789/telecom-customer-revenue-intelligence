@@ -2,6 +2,18 @@
 
 A Power BI portfolio project exploring customer segments, estimated revenue, service usage, and the share of customers labelled churned. A companion Python notebook documents a churn modelling experiment and its limitations.
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](executive-overview.png)
+
+### Customer & Churn Analysis
+![Customer & Churn Analysis](customer-churn-analysis.png)
+
+### Usage & Churn Drivers
+![Usage & Churn Drivers](usage-churn-drivers.png)
+
+
 ## Business questions
 
 - How do estimated revenue and monthly ARPU vary across months and regions?
